@@ -1,4 +1,5 @@
 # Tic-Tac-Toe-js
 
-SImple tic tac toe build in vanilla js
+__SImple tic tac toe build in vanilla js__
+
 ![Tic Tac Toe!](./TictacToe.png)
